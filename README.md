@@ -1,7 +1,7 @@
 # rossman_lightgbm
 
 
-# branch: main
+# branch: main lightgbm
 
 ![score kaggle rossmann](./ligthgbm_rossmann.png)
 

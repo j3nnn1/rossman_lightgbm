@@ -5,6 +5,9 @@
 
 ![score kaggle rossmann](./ligthgbm_rossmann.png)
 
-# branch: xgboost
+# branch: xgboost_2
+
+Tomado de: https://www.kaggle.com/danspace/rossmann-store-sales-xgboost
+
 
 ![score kaggle rossmann](./ligthgbm_rossmann.png)

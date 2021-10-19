@@ -1,13 +1,16 @@
 # rossman_lightgbm
 
 
-# branch: main lightgbm
+# branch: main contiene modelo con lightgbm
 
 ![score kaggle rossmann](./ligthgbm_rossmann.png)
 
-# branch: xgboost_2
+# branch: branch xgboost_2 contiene modelo con xgboost 
 
 Tomado de: https://www.kaggle.com/danspace/rossmann-store-sales-xgboost
 
+pip install seaborn
+pip install xgboost
+![score kaggle rossmann](./xgboost_danspace2.png)
 
-![score kaggle rossmann](./ligthgbm_rossmann.png)
+![score kaggle rossmann](./xgboost_danspace.png)
